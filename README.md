@@ -35,16 +35,16 @@ https://cyberjapandata.gsi.go.jp/xyz/experimental_jhj/style.js
 及び電子国土基本図（地名情報）「住居表示住所」ファイル仕様書（http://www.gsi.go.jp/common/000187306.pdf ）等をご覧ください。
 
 なお、以下の属性については本提供実験には含まれません。
-・居住地名：都道府県名のよみ、市区町村名のよみ
-・自然地名：行政コード、都道府県名、市区町村名
-・住居表示住所：住所コード（可読）、住所コード（数値）、経度、緯度
+- 居住地名：都道府県名のよみ、市区町村名のよみ  
+- 自然地名：行政コード、都道府県名、市区町村名  
+- 住居表示住所：住所コード（可読）、住所コード（数値）、経度、緯度  
 
 
 ## デモサイトについて
 デモサイトを次の場所に用意しております。
-- 本レポジトリ
+- 本レポジトリ  
 http://gsi-cyberjapan.github.io/experimental_pni/
-- 地理院地図
+- 地理院地図  
 http://maps.gsi.go.jp/#18/35.682597/139.856129/&base=ort&ls=ort|experimental_nrpt|experimental_nnfpt|experimental_pfpt|experimental_jhj&disp=11111&lcd=experimental_jhj&vs=c1j0l0u0t0z0r0f0&d=vl
 
 ## 提供の位置づけ
