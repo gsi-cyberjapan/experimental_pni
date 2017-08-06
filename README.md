@@ -29,7 +29,7 @@ https://cyberjapandata.gsi.go.jp/xyz/experimental_pfpt/style.js
 https://cyberjapandata.gsi.go.jp/xyz/experimental_jhj/style.js
 
 ## データについて
-電子国土基本図（地名情報）のうち、居住地名、自然地名、公共施設、住居表示住所をズームレベル15のGeoJSONタイルに変換したものを提供実験いたします。
+電子国土基本図（地名情報）のうち、居住地名、自然地名、公共施設をズームレベル15の、住居表示住所をズームレベル18のGeoJSONタイルに変換したものを提供実験いたします。
 提供範囲は日本全国になります。
 データの内容の詳細は、電子国土基本図（地名情報）ファイル仕様書（PDFファイル）（http://www.gsi.go.jp/common/000187334.pdf ）
 及び電子国土基本図（地名情報）「住居表示住所」ファイル仕様書（http://www.gsi.go.jp/common/000187306.pdf ）等をご覧ください。
