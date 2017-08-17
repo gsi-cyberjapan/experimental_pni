@@ -43,9 +43,9 @@ https://cyberjapandata.gsi.go.jp/xyz/experimental_jhj/style.js
 ## デモサイトについて
 デモサイトを次の場所に用意しております。
 - 本レポジトリ  
-http://gsi-cyberjapan.github.io/experimental_pni/
+https://gsi-cyberjapan.github.io/experimental_pni/
 - 地理院地図  
-http://maps.gsi.go.jp/#18/35.682597/139.856129/&base=ort&ls=ort|experimental_nrpt|experimental_nnfpt|experimental_pfpt|experimental_jhj&disp=11111&lcd=experimental_jhj&vs=c1j0l0u0t0z0r0f0&d=vl
+https://maps.gsi.go.jp/#18/35.682597/139.856129/&base=ort&ls=ort|experimental_nrpt|experimental_nnfpt|experimental_pfpt|experimental_jhj&disp=11111&lcd=experimental_jhj&vs=c1j0l0u0t0z0r0f0&d=vl
 
 ## 提供の位置づけ
 国土地理院ベクトルタイル提供実験におけるデータの提供の位置づけは次のとおりです。
